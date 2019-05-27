@@ -1,0 +1,25 @@
+.location {
+    width: 100%;
+    height: auto;
+}
+
+.location-name {
+    color: #000000;
+    font-weight: 800;
+    font-size: 28px;
+    margin-bottom: 0;
+}
+
+.location-info {
+    text-align: left;
+    font-weight: 400;
+    font-size: 13px;
+}
+
+.border-title {
+    margin-bottom: 15px;
+    width: 100px;
+    height: 5px;
+    border-radius: 3px;
+    background-color: #253B80;
+}
